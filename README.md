@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am curently working for Amagi Media Labs as a Staff Software Engineer.
+
 <!--
 **maneeshbabu/maneeshbabu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
