@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-I am curently working for Amagi Media Labs as a Staff Software Engineer. 
-
-And
-
 ![BLACK LIVES MATTER](https://media.giphy.com/media/WnBEK373qiJ0cQpeD4/giphy.gif)
 
 <!--
