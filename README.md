@@ -6,7 +6,7 @@ I am a software engineer and a blogger. I currently working as a Staff Software 
 - 🔭 I’m currently working on building applications for Amagi Media Labs.
 - 🌱 I’m currently learning Rust Programming Language
 - 💬 Ask me about Elixir, Phoenix, Ruby on Rails, GoLang, NodeJS, VueJS, Angular and how to be a polyglot developer 😄
-- 📫 How to reach me, mail me @ maneeshbabum@hey.com and mention `February668` in the subject line.
+- 📫 How to reach me, mail me @ maneeshbabum@hey.com
 - 😄 Pronouns he/his
 
 ![BLACK LIVES MATTER](https://media.giphy.com/media/WnBEK373qiJ0cQpeD4/giphy.gif)
