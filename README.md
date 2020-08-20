@@ -9,8 +9,6 @@ I am a software engineer and a blogger. I currently working as a Staff Software 
 - 📫 How to reach me, mail me @ maneeshbabum@hey.com
 - 😄 Pronouns he/him
 
-![BLACK LIVES MATTER](https://media.giphy.com/media/WnBEK373qiJ0cQpeD4/giphy.gif)
-
 
 <!--
 **maneeshbabu/maneeshbabu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
