@@ -9,6 +9,9 @@ I am a software engineer and a blogger. I currently working as a Staff Software 
 - 📫 How to reach me, mail me @ maneeshbabum@hey.com
 - 😄 Pronouns he/him
 
+#### GitHub Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=maneeshbabu)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <!--
 **maneeshbabu/maneeshbabu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
