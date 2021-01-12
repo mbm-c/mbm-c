@@ -12,6 +12,9 @@ I am a software engineer and a blogger. I currently working as a Staff Software 
 #### GitHub Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=maneeshbabu)](https://github.com/ryo-ma/github-profile-trophy)
 
+![Maneesh's github stats](https://github-readme-stats.vercel.app/api?username=maneeshbabu&show_icons=true)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=maneeshbabu.maneeshbabu)
 
 <!--
 **maneeshbabu/maneeshbabu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
