@@ -19,19 +19,19 @@ I am a software engineer and a blogger. I currently working as a Staff Software 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=maneeshbabu.maneeshbabu)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-57-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-336678%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 125 Contributions in the Year 2021
+> 🏆 127 Contributions in the Year 2021
  > 
 > 📦 1.3 MB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 53 Public Repositories 
+> 📜 54 Public Repositories 
  > 
 > 🔑 10 Private Repositories  
  > 
@@ -64,13 +64,17 @@ Sunday       15 commits     ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+YAML                     37 mins             ███████████░░░░░░░░░░░░░░   44.54% 
+Other                    31 mins             █████████░░░░░░░░░░░░░░░░   36.99% 
+Go                       9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   11.31% 
+JavaScript               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.04% 
+Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   2.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 24 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 hr 24 mins        █████████████████████████   100.0%
 
 ```
 
