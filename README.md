@@ -21,11 +21,11 @@ I am a software engineer and a blogger. I currently working as a Staff Software 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-88-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-336185%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-289022%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 132 Contributions in the Year 2021
+> 🏆 134 Contributions in the Year 2021
  > 
 > 📦 1.3 MB Used in Github's Storage 
  > 
@@ -39,8 +39,8 @@ I am a software engineer and a blogger. I currently working as a Staff Software 
 
 ```text
 🌞 Morning    107 commits    █████░░░░░░░░░░░░░░░░░░░░   21.53% 
-🌆 Daytime    279 commits    ██████████████░░░░░░░░░░░   56.14% 
-🌃 Evening    86 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.3% 
+🌆 Daytime    280 commits    ██████████████░░░░░░░░░░░   56.34% 
+🌃 Evening    85 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.1% 
 🌙 Night      25 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.03%
 
 ```
@@ -48,9 +48,9 @@ I am a software engineer and a blogger. I currently working as a Staff Software 
 
 ```text
 Monday       54 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.87% 
-Tuesday      107 commits    █████░░░░░░░░░░░░░░░░░░░░   21.53% 
+Tuesday      106 commits    █████░░░░░░░░░░░░░░░░░░░░   21.33% 
 Wednesday    131 commits    ██████░░░░░░░░░░░░░░░░░░░   26.36% 
-Thursday     96 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.32% 
+Thursday     97 commits     █████░░░░░░░░░░░░░░░░░░░░   19.52% 
 Friday       73 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.69% 
 Saturday     21 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.23% 
 Sunday       15 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   3.02%
