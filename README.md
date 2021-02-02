@@ -21,11 +21,11 @@ I am a software engineer and a blogger. I currently working as a Staff Software 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-109-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-287632%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-287621%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 161 Contributions in the Year 2021
+> 🏆 163 Contributions in the Year 2021
  > 
 > 📦 1.4 MB Used in Github's Storage 
  > 
