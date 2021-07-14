@@ -18,6 +18,10 @@ I am a software engineer and a blogger. I currently working as a Staff Software 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=maneeshbabu.maneeshbabu)
 
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
 <!--
 **maneeshbabu/maneeshbabu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
