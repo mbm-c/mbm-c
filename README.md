@@ -21,11 +21,11 @@ I am a software engineer and a blogger. I currently working as a Staff Software 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-34-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-323653%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-323618%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 446 Contributions in the Year 2021
+> 🏆 448 Contributions in the Year 2021
  > 
 > 📦 4.6 MB Used in Github's Storage 
  > 
@@ -38,8 +38,8 @@ I am a software engineer and a blogger. I currently working as a Staff Software 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    105 commits    ██████░░░░░░░░░░░░░░░░░░░   23.97% 
-🌆 Daytime    287 commits    ████████████████░░░░░░░░░   65.53% 
+🌞 Morning    104 commits    ██████░░░░░░░░░░░░░░░░░░░   23.74% 
+🌆 Daytime    288 commits    ████████████████░░░░░░░░░   65.75% 
 🌃 Evening    44 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.05% 
 🌙 Night      2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.46%
 
