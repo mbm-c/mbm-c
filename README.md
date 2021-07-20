@@ -27,7 +27,7 @@ I am a software engineer and a blogger. I currently working as a Staff Software 
 
 > 🏆 450 Contributions in the Year 2021
  > 
-> 📦 4.6 MB Used in Github's Storage 
+> 📦 4.7 MB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -90,7 +90,7 @@ Dockerfile               2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/maneeshbm/maneeshbm/master/charts/bar_graph.png) 
 
 
- Last Updated on 19/07/2021
+ Last Updated on 20/07/2021
 <!--END_SECTION:waka-->
 
 <!--
