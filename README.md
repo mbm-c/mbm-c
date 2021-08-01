@@ -27,7 +27,7 @@ I am a software engineer and a blogger. I currently working as a Staff Software 
 
 > 🏆 452 Contributions in the Year 2021
  > 
-> 📦 4.8 MB Used in Github's Storage 
+> 📦 4.9 MB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
