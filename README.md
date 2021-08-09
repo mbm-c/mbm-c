@@ -74,11 +74,11 @@ No Activity Tracked This Week
 **I Mostly Code in Go** 
 
 ```text
-Go                       7 repos             ██████░░░░░░░░░░░░░░░░░░░   24.14% 
-Elixir                   6 repos             █████░░░░░░░░░░░░░░░░░░░░   20.69% 
-JavaScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.79% 
-Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.34% 
-Dockerfile               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.9%
+Go                       7 repos             █████░░░░░░░░░░░░░░░░░░░░   23.33% 
+Elixir                   6 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0% 
+JavaScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
+Python                   4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
+Dockerfile               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.67%
 
 ```
 
