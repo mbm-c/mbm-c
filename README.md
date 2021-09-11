@@ -25,13 +25,13 @@ I am a software engineer and a blogger. I currently working as a Staff Software 
 
 **🐱 My Github Data** 
 
-> 🏆 519 Contributions in the Year 2021
+> 🏆 523 Contributions in the Year 2021
  > 
 > 📦 5.5 MB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 60 Public Repositories 
+> 📜 61 Public Repositories 
  > 
 > 🔑 10 Private Repositories  
  > 
