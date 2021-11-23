@@ -19,13 +19,13 @@ I am a software engineer and a blogger. I currently working as a Staff Software 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=maneeshbabu.maneeshbabu)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-293809%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 767 Contributions in the Year 2021
+> 🏆 768 Contributions in the Year 2021
  > 
 > 📦 6.7 MB Used in GitHub's Storage 
  > 
