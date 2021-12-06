@@ -19,6 +19,8 @@ I am a software engineer and a blogger. I currently working as a Staff Software 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=maneeshbabu.maneeshbabu)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-386%20hrs%2028%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-288%20Thousand%20lines%20of%20code-blue)
@@ -27,7 +29,7 @@ I am a software engineer and a blogger. I currently working as a Staff Software 
 
 > 🏆 802 Contributions in the Year 2021
  > 
-> 📦 6.8 MB Used in GitHub's Storage 
+> 📦 6.9 MB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -64,14 +66,14 @@ Sunday       24 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Ruby                     2 hrs 54 mins       ██████████████░░░░░░░░░░░   57.15% 
-Python                   25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.43% 
-HTML                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.33% 
-Other                    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.26% 
-Markdown                 18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.94%
+Python                   2 hrs 21 mins       ███████████░░░░░░░░░░░░░░   45.68% 
+Ruby                     41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.53% 
+HTML                     33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.86% 
+Other                    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.2% 
+Markdown                 17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.81%
 
 💻 Operating System: 
-Linux                    5 hrs 6 mins        █████████████████████████   100.0%
+Linux                    5 hrs 8 mins        █████████████████████████   100.0%
 
 ```
 
