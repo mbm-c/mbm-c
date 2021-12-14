@@ -19,7 +19,7 @@ I am a software engineer and a blogger. I currently working as a Staff Software 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=maneeshbabu.maneeshbabu)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-395%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-397%20hrs%208%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -27,7 +27,7 @@ I am a software engineer and a blogger. I currently working as a Staff Software 
 
 **🐱 My GitHub Data** 
 
-> 🏆 833 Contributions in the Year 2021
+> 🏆 834 Contributions in the Year 2021
  > 
 > 📦 6.9 MB Used in GitHub's Storage 
  > 
