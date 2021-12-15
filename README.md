@@ -19,7 +19,7 @@ I am a software engineer and a blogger. I currently working as a Staff Software 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=maneeshbabu.maneeshbabu)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-400%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-401%20hrs%2021%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -27,9 +27,9 @@ I am a software engineer and a blogger. I currently working as a Staff Software 
 
 **🐱 My GitHub Data** 
 
-> 🏆 847 Contributions in the Year 2021
+> 🏆 851 Contributions in the Year 2021
  > 
-> 📦 6.9 MB Used in GitHub's Storage 
+> 📦 7.0 MB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -40,8 +40,8 @@ I am a software engineer and a blogger. I currently working as a Staff Software 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    169 commits    ██████░░░░░░░░░░░░░░░░░░░   26.41% 
-🌆 Daytime    376 commits    ██████████████░░░░░░░░░░░   58.75% 
+🌞 Morning    171 commits    ██████░░░░░░░░░░░░░░░░░░░   26.72% 
+🌆 Daytime    374 commits    ██████████████░░░░░░░░░░░   58.44% 
 🌃 Evening    93 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.53% 
 🌙 Night      2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.31%
 
@@ -49,10 +49,10 @@ I am a software engineer and a blogger. I currently working as a Staff Software 
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday       94 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.69% 
+Monday       91 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.22% 
 Tuesday      110 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.19% 
-Wednesday    121 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.91% 
-Thursday     138 commits    █████░░░░░░░░░░░░░░░░░░░░   21.56% 
+Wednesday    125 commits    █████░░░░░░░░░░░░░░░░░░░░   19.53% 
+Thursday     137 commits    █████░░░░░░░░░░░░░░░░░░░░   21.41% 
 Friday       108 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.88% 
 Saturday     45 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.03% 
 Sunday       24 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   3.75%
