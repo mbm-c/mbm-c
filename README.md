@@ -19,6 +19,8 @@ I am a software engineer and a blogger. I currently working as a Staff Software 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=maneeshbabu.maneeshbabu)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-410%20hrs%207%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-288%20Thousand%20lines%20of%20code-blue)
@@ -27,7 +29,7 @@ I am a software engineer and a blogger. I currently working as a Staff Software 
 
 > 🏆 881 Contributions in the Year 2021
  > 
-> 📦 6.9 MB Used in GitHub's Storage 
+> 📦 7.0 MB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -64,14 +66,14 @@ Sunday       24 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Ruby                     3 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   25.85% 
-YAML                     3 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   23.56% 
-Other                    1 hr 38 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.72% 
-Docker                   1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   8.64% 
-Bash                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.9%
+Python                   3 hrs 38 mins       █████░░░░░░░░░░░░░░░░░░░░   21.27% 
+YAML                     3 hrs 37 mins       █████░░░░░░░░░░░░░░░░░░░░   21.17% 
+Ruby                     3 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   20.13% 
+Other                    1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.89% 
+Docker                   1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   7.98%
 
 💻 Operating System: 
-Linux                    12 hrs 50 mins      █████████████████████████   100.0%
+Linux                    17 hrs 7 mins       █████████████████████████   100.0%
 
 ```
 
