@@ -19,7 +19,7 @@ I am a software engineer and a blogger. I currently working as a Staff Software 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=maneeshbabu.maneeshbabu)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-412%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-413%20hrs%201%20min-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -27,7 +27,7 @@ I am a software engineer and a blogger. I currently working as a Staff Software 
 
 **🐱 My GitHub Data** 
 
-> 🏆 884 Contributions in the Year 2021
+> 🏆 885 Contributions in the Year 2021
  > 
 > 📦 7.0 MB Used in GitHub's Storage 
  > 
@@ -40,8 +40,8 @@ I am a software engineer and a blogger. I currently working as a Staff Software 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    177 commits    ██████░░░░░░░░░░░░░░░░░░░   27.44% 
-🌆 Daytime    376 commits    ██████████████░░░░░░░░░░░   58.29% 
+🌞 Morning    176 commits    ██████░░░░░░░░░░░░░░░░░░░   27.29% 
+🌆 Daytime    377 commits    ██████████████░░░░░░░░░░░   58.45% 
 🌃 Evening    90 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.95% 
 🌙 Night      2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.31%
 
@@ -50,10 +50,10 @@ I am a software engineer and a blogger. I currently working as a Staff Software 
 
 ```text
 Monday       83 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.87% 
-Tuesday      101 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.66% 
+Tuesday      100 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.5% 
 Wednesday    138 commits    █████░░░░░░░░░░░░░░░░░░░░   21.4% 
 Thursday     146 commits    █████░░░░░░░░░░░░░░░░░░░░   22.64% 
-Friday       108 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.74% 
+Friday       109 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.9% 
 Saturday     45 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.98% 
 Sunday       24 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   3.72%
 
