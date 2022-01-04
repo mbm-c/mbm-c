@@ -19,6 +19,8 @@ I am a software engineer and a blogger. I currently working as a Staff Software 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=maneeshbabu.maneeshbabu)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-425%20hrs%208%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-284%20Thousand%20lines%20of%20code-blue)
@@ -64,14 +66,13 @@ Sunday       33 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   2 hrs 2 mins        ████████████░░░░░░░░░░░░░   49.41% 
-HTML                     1 hr 19 mins        ████████░░░░░░░░░░░░░░░░░   31.94% 
-CSS                      25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.3% 
-Other                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.36% 
-Ruby                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.61%
+Python                   1 hr 43 mins        ████████████████████░░░░░   83.22% 
+Other                    10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.74% 
+Ruby                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   7.23% 
+HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.81%
 
 💻 Operating System: 
-Linux                    4 hrs 8 mins        █████████████████████████   100.0%
+Linux                    2 hrs 4 mins        █████████████████████████   100.0%
 
 ```
 
