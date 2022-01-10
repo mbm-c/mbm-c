@@ -29,7 +29,7 @@ I am a software engineer and a blogger. I currently working as a Staff Software 
 
 > 🏆 22 Contributions in the Year 2022
  > 
-> 📦 7.2 MB Used in GitHub's Storage 
+> 📦 7.3 MB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
