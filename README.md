@@ -19,6 +19,8 @@ I am a software engineer and a blogger. I currently working as a Staff Software 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=maneeshbabu.maneeshbabu)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-431%20hrs%2020%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-282%20Thousand%20lines%20of%20code-blue)
@@ -64,10 +66,13 @@ Sunday       33 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   1 hr 39 mins        █████████████████████████   100.0%
+Python                   2 hrs 51 mins       █████████████████████░░░░   87.02% 
+HTML                     23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.15% 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.7% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.14%
 
 💻 Operating System: 
-Linux                    1 hr 39 mins        █████████████████████████   100.0%
+Linux                    3 hrs 16 mins       █████████████████████████   100.0%
 
 ```
 
