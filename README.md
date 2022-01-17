@@ -23,7 +23,7 @@ I am a software engineer and a blogger. I currently working as a Staff Software 
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-286%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-282%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -35,7 +35,7 @@ I am a software engineer and a blogger. I currently working as a Staff Software 
  > 
 > 📜 65 Public Repositories 
  > 
-> 🔑 12 Private Repositories  
+> 🔑 11 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
@@ -73,14 +73,14 @@ Linux                    1 hr 39 mins        ███████████�
 
 ```
 
-**I Mostly Code in Go** 
+**I Mostly Code in Elixir** 
 
 ```text
-Go                       7 repos             █████░░░░░░░░░░░░░░░░░░░░   22.58% 
-Elixir                   6 repos             ████░░░░░░░░░░░░░░░░░░░░░   19.35% 
-Python                   5 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.13% 
-JavaScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.9% 
-Ruby                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.45%
+Elixir                   6 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0% 
+Go                       6 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0% 
+Python                   5 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
+JavaScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
+Ruby                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.67%
 
 ```
 
