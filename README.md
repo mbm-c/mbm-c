@@ -19,7 +19,7 @@ I am a software engineer and a blogger. I currently working as a Staff Software 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=maneeshbabu.maneeshbabu)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-438%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-439%20hrs%2014%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -27,9 +27,9 @@ I am a software engineer and a blogger. I currently working as a Staff Software 
 
 **🐱 My GitHub Data** 
 
-> 🏆 63 Contributions in the Year 2022
+> 🏆 64 Contributions in the Year 2022
  > 
-> 📦 7.4 MB Used in GitHub's Storage 
+> 📦 7.5 MB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -94,7 +94,7 @@ Ruby                     2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/mbm-c/mbm-c/master/charts/bar_graph.png) 
 
 
- Last Updated on 27/01/2022 04:32:19 UTC
+ Last Updated on 27/01/2022 08:31:04 UTC
 <!--END_SECTION:waka-->
 
 <!--
