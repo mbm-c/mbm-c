@@ -19,7 +19,7 @@ I am a software engineer and a blogger. I currently working as a Staff Software 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=maneeshbabu.maneeshbabu)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-442%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-442%20hrs%2014%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -40,8 +40,8 @@ I am a software engineer and a blogger. I currently working as a Staff Software 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    234 commits    ███████░░░░░░░░░░░░░░░░░░   30.51% 
-🌆 Daytime    409 commits    █████████████░░░░░░░░░░░░   53.32% 
+🌞 Morning    232 commits    ███████░░░░░░░░░░░░░░░░░░   30.25% 
+🌆 Daytime    411 commits    █████████████░░░░░░░░░░░░   53.59% 
 🌃 Evening    122 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.91% 
 🌙 Night      2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.26%
 
@@ -49,11 +49,11 @@ I am a software engineer and a blogger. I currently working as a Staff Software 
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday       123 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.04% 
+Monday       122 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.91% 
 Tuesday      132 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.21% 
-Wednesday    153 commits    █████░░░░░░░░░░░░░░░░░░░░   19.95% 
+Wednesday    152 commits    █████░░░░░░░░░░░░░░░░░░░░   19.82% 
 Thursday     174 commits    █████░░░░░░░░░░░░░░░░░░░░   22.69% 
-Friday       127 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.56% 
+Friday       129 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.82% 
 Saturday     25 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   3.26% 
 Sunday       33 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.3%
 
@@ -94,7 +94,7 @@ Ruby                     2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/mbm-c/mbm-c/master/charts/bar_graph.png) 
 
 
- Last Updated on 28/01/2022 06:32:30 UTC
+ Last Updated on 28/01/2022 10:30:33 UTC
 <!--END_SECTION:waka-->
 
 <!--
