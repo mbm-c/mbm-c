@@ -29,7 +29,7 @@ I am a software engineer and a blogger. I currently working as a Staff Software 
 
 > 🏆 76 Contributions in the Year 2022
  > 
-> 📦 7.6 MB Used in GitHub's Storage 
+> 📦 7.5 MB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -94,7 +94,7 @@ Ruby                     2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/mbm-c/mbm-c/master/charts/bar_graph.png) 
 
 
- Last Updated on 05/02/2022 22:29:00 UTC
+ Last Updated on 06/02/2022 02:47:07 UTC
 <!--END_SECTION:waka-->
 
 <!--
