@@ -19,7 +19,7 @@ I am a software engineer and a blogger. I currently working as a Staff Software 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=maneeshbabu.maneeshbabu)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-447%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-447%20hrs%2050%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -27,7 +27,7 @@ I am a software engineer and a blogger. I currently working as a Staff Software 
 
 **🐱 My GitHub Data** 
 
-> 🏆 76 Contributions in the Year 2022
+> 🏆 79 Contributions in the Year 2022
  > 
 > 📦 7.6 MB Used in GitHub's Storage 
  > 
@@ -40,22 +40,22 @@ I am a software engineer and a blogger. I currently working as a Staff Software 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    232 commits    ███████░░░░░░░░░░░░░░░░░░   30.17% 
-🌆 Daytime    412 commits    █████████████░░░░░░░░░░░░   53.58% 
-🌃 Evening    123 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.99% 
+🌞 Morning    232 commits    ███████░░░░░░░░░░░░░░░░░░   30.09% 
+🌆 Daytime    412 commits    █████████████░░░░░░░░░░░░   53.44% 
+🌃 Evening    125 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.21% 
 🌙 Night      2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.26%
 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday       122 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.86% 
-Tuesday      132 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.17% 
-Wednesday    152 commits    █████░░░░░░░░░░░░░░░░░░░░   19.77% 
-Thursday     174 commits    █████░░░░░░░░░░░░░░░░░░░░   22.63% 
-Friday       129 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.78% 
-Saturday     27 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   3.51% 
-Sunday       33 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.29%
+Monday       124 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.08% 
+Tuesday      132 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.12% 
+Wednesday    152 commits    █████░░░░░░░░░░░░░░░░░░░░   19.71% 
+Thursday     174 commits    █████░░░░░░░░░░░░░░░░░░░░   22.57% 
+Friday       129 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.73% 
+Saturday     27 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   3.5% 
+Sunday       33 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.28%
 
 ```
 
@@ -94,7 +94,7 @@ Ruby                     2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/mbm-c/mbm-c/master/charts/bar_graph.png) 
 
 
- Last Updated on 07/02/2022 10:32:13 UTC
+ Last Updated on 07/02/2022 14:24:49 UTC
 <!--END_SECTION:waka-->
 
 <!--
