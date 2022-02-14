@@ -21,7 +21,7 @@ I am a software engineer and a blogger. I currently working as a Staff Software 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-458%20hrs%207%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-282%20Thousand%20lines%20of%20code-blue)
 
@@ -80,11 +80,11 @@ Linux                    10 hrs 50 mins      ███████████�
 **I Mostly Code in Elixir** 
 
 ```text
-Elixir                   6 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0% 
-Go                       6 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0% 
-Python                   5 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
-JavaScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
-Ruby                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.67%
+Elixir                   6 repos             ████░░░░░░░░░░░░░░░░░░░░░   19.35% 
+Go                       6 repos             ████░░░░░░░░░░░░░░░░░░░░░   19.35% 
+Python                   6 repos             ████░░░░░░░░░░░░░░░░░░░░░   19.35% 
+JavaScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.9% 
+Ruby                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.45%
 
 ```
 
@@ -94,7 +94,7 @@ Ruby                     2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/mbm-c/mbm-c/master/charts/bar_graph.png) 
 
 
- Last Updated on 14/02/2022 02:35:05 UTC
+ Last Updated on 14/02/2022 06:32:12 UTC
 <!--END_SECTION:waka-->
 
 <!--
