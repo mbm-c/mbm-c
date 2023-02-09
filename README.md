@@ -33,7 +33,7 @@ I am a software engineer and a blogger. I currently working as a Staff Software 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=maneeshbabu.maneeshbabu)
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/mbm-c/mbm-c/blob/master/devcard.svg" width="400" alt="Maneesh's Dev Card"/></a>
+<a href="https://blog.maneesh.dev/"><img src="https://github.com/mbm-c/mbm-c/blob/master/devcard.svg" width="400" alt="Maneesh's Dev Card"/></a>
 
 
 <!--
