@@ -21,9 +21,7 @@ I am a software engineer and a blogger. I currently working as a Staff Software 
  <summary><b>🔥 Github Streaks</b></summary>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mbm-c&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="mbm-c" /></p>
 
-<summary><b>📊 Github Contribution Graph</b></summary>
-<p align="center"<a href="#"><img alt="Ashish Kumar Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mbm-c&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
-<!-- </details>
+
 <details>    -->
  <summary><b>🏆 Github Achievements</b></summary>
 <p align="center"> <a href="https://github.com/mbm-c"><img src="https://github-profile-trophy.vercel.app/?username=mbm-c&margin-w=5&theme=radical" alt="mbm-c" /></a> </p>
@@ -31,7 +29,7 @@ I am a software engineer and a blogger. I currently working as a Staff Software 
 <br>
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=maneeshbabu.maneeshbabu)
+![Metrics](/github-metrics.svg)
 
 <a href="https://blog.maneesh.dev/"><img src="https://github.com/mbm-c/mbm-c/blob/master/devcard.svg" width="400" alt="Maneesh's Dev Card"/></a>
 
