@@ -22,7 +22,7 @@ I am a software engineer and a blogger. I currently working as a Staff Software 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mbm-c&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="mbm-c" /></p>
 
 
-<details>    -->
+<details>
  <summary><b>🏆 Github Achievements</b></summary>
 <p align="center"> <a href="https://github.com/mbm-c"><img src="https://github-profile-trophy.vercel.app/?username=mbm-c&margin-w=5&theme=radical" alt="mbm-c" /></a> </p>
 
