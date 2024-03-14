@@ -6,7 +6,6 @@ I am a software engineer and a blogger. I currently working as a Staff Software 
 - 🔭 I’m currently working on building applications for Amagi Media Labs.
 - 🌱 I’m currently learning Rust Programming Language
 - 💬 Ask me about Elixir, Phoenix, Ruby on Rails, GoLang, NodeJS, VueJS, Angular and how to be a polyglot developer 😄
-- 📫 How to reach me, mail me @ mbm.c@hey.com
 - 😄 Pronouns he/him
 
 ### GitHub Trophy
