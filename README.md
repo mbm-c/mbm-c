@@ -1,12 +1,6 @@
 ### Hi there 👋 I am Maneesh,
 
-I am a software engineer and a blogger. I currently working as a Staff Software Engineer at Amagi Media Labs.
-
-
-- 🔭 I’m currently working on building applications for Amagi Media Labs.
-- 🌱 I’m currently learning Rust Programming Language
-- 💬 Ask me about Elixir, Phoenix, Ruby on Rails, GoLang, NodeJS, VueJS, Angular and how to be a polyglot developer 😄
-- 😄 Pronouns he/him
+Lead software engineer at Amagi Media Labs Pvt. Ltd..
 
 ### GitHub Trophy
 	
